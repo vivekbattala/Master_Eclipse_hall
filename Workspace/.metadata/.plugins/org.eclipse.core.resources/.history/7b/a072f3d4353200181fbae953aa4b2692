@@ -1,0 +1,24 @@
+package coreJava;
+
+public class Fibonacci extends Scanner1 {
+
+	
+	public static void main(String[] args)
+	
+	{
+		Fibonacci fb=new Fibonacci();
+		scan();
+		int i;
+		int res=0;
+		int temp;
+		for(i=0;i<=num;i++)
+		{
+			for(int j=num; j>i;j--)
+			{
+				System.out.print(j);
+			}
+	
+			System.out.println(i);
+		}
+	}
+}

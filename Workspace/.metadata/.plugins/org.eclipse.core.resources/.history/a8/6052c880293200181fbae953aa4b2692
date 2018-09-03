@@ -1,0 +1,12 @@
+package coreJava;
+
+public class Scanner1 {
+
+	void scan()
+	{
+		Scanner scan=new Scanner(System.in);
+		int num=scan.nextInt();
+		System.out.println(num);
+	}
+	
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="corejava.ForLooping"/>
+<fullyQualifiedTypeName name="java.text.BreakIterator"/>
+<fullyQualifiedTypeName name="corejava.AsteriskPyramid"/>
+<fullyQualifiedTypeName name="corejava.MultipleInheritanceUsingInterface"/>
+<fullyQualifiedTypeName name="corejava.Vehicle"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By.ByXPath"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By.ByClassName"/>
+<fullyQualifiedTypeName name="org.testng.Assert"/>
+<fullyQualifiedTypeName name="junit.framework.Assert"/>
+<fullyQualifiedTypeName name="java.lang.Thread"/>
+<fullyQualifiedTypeName name="org.testng.annotations.AfterTest"/>
+<fullyQualifiedTypeName name="org.apache.bcel.generic.Select"/>
+<fullyQualifiedTypeName name="com.android.dx.rop.cst.CstArray.List"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.awt.List"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.Keys"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.interactions.Actions"/>
+<fullyQualifiedTypeName name="org.testng.annotations.BeforeTest"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebDriver"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.By"/>
+<fullyQualifiedTypeName name="org.openqa.selenium.WebElement"/>
+<fullyQualifiedTypeName name="org.sikuli.script.Screen"/>
+<fullyQualifiedTypeName name="org.sikuli.script.Pattern"/>
+<fullyQualifiedTypeName name="org.testng.annotations.Test"/>
+<fullyQualifiedTypeName name="corejava.ReadDataXML"/>
+<fullyQualifiedTypeName name="jxl.Sheet"/>
+<fullyQualifiedTypeName name="jxl.write.WritableWorkbook"/>
+<fullyQualifiedTypeName name="jxl.Workbook"/>
+<fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+<fullyQualifiedTypeName name="jxl.write.WritableSheet"/>
+<fullyQualifiedTypeName name="java.awt.Label"/>
+<fullyQualifiedTypeName name="jxl.write.Label"/>
+<fullyQualifiedTypeName name="java.io.FileInputStream"/>
+<fullyQualifiedTypeName name="selenium.Read_properties_file"/>
+<fullyQualifiedTypeName name="java.util.Properties"/>
+<fullyQualifiedTypeName name="corejava.Avg_array"/>
+<fullyQualifiedTypeName name="coreJava.Array_avg"/>
+<fullyQualifiedTypeName name="coreJava.Switch_case"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="abc.Master"/>
+</qualifiedTypeNameHistroy>

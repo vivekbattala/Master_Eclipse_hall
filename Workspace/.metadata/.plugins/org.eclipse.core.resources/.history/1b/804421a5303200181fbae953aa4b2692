@@ -1,0 +1,21 @@
+package coreJava;
+
+import java.util.Scanner;
+
+public class Scanner1 {
+
+	static int num;
+	static Scanner scan;
+	void scan()
+	{
+		scan=new Scanner(System.in);
+		num=scan.nextInt();
+		//scan.close();
+	}
+
+	public void close1() {
+		// TODO Auto-generated method stub
+		scan.close();
+	}
+	
+}

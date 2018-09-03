@@ -1,0 +1,16 @@
+package coreJava;
+
+import java.util.Scanner;
+
+public class Scanner1 {
+
+	static int num;
+	
+	void scan()
+	{
+		Scanner scan=new Scanner(System.in);
+		num=scan.nextInt();
+		
+	}
+	
+}

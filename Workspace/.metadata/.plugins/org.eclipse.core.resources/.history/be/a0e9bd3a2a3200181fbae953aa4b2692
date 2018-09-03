@@ -1,0 +1,16 @@
+package coreJava;
+
+import java.util.Scanner;
+
+public class naturalNums extends Scanner1 {
+
+	static int num;
+	public static void main(String[] args)
+	{
+		
+		naturalNums obj_class= new naturalNums();
+		obj_class.scan();
+		System.out.println(num);
+	}
+	
+}

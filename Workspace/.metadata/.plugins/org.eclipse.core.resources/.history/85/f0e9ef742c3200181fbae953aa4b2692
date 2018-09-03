@@ -1,0 +1,29 @@
+package coreJava;
+
+
+
+public class naturalNums extends Scanner1 {
+	//inherits the scanner class for user defined values.
+	
+	public static void main(String[] args)
+	{
+		
+		naturalNums obj_class= new naturalNums();
+		obj_class.scan();
+		obj_class.loop();
+	}
+	
+	void loop()
+	{
+		int i;
+		int res;
+		for(i=1; i<=num;i++)
+		{
+			//System.out.println("inside the Loop"+i);
+			int num2=i;
+			res=num2+i;
+		}
+		
+		System.out.println(res);
+	}
+}
